@@ -52,10 +52,9 @@ ul {
 
 .colonnalink {
     height: 35px;
-    max width: 570px;
+    max-width: 570px;
     padding-top: 5px;
     display: flex;
-
 }
 
 .colonnalogin {
@@ -321,6 +320,23 @@ footer .footer .container3 .minisection5 ul {
 
 span {
     color: white;
+}
+
+.localecontainer {
+    display: flex;
+    align-items: center;
+}
+
+.logoita {
+    width: 24px;
+    height: 16px;
+    margin-right: 8px;
+}
+
+.testoita {
+    color: white;
+    font-size: 11px;
+    line-height: 50px;
 }
 
 
