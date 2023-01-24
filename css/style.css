@@ -8,6 +8,7 @@ Reset
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Noto Sans', sans-serif;
 }
 
 /* 
@@ -16,9 +17,16 @@ Header
 ---------------------------
 */
 
+header {
+    background-image: url('/img/jumbo.png');
+    background-size: cover;
+
+    
+}
+
 .container1 {
     height: 65px;
-    background-color: #add8e6;
+    /* background-color: #add8e6; */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -41,6 +49,7 @@ Header
     border: dashed black 2px;
     text-align: center;
     padding-top: 5px;
+    display: flex;
 
 }
 
@@ -56,7 +65,7 @@ Header
 
 .container2 {
     height: 400px;
-    background-color: #00008b;
+    /* background-color: #00008b; */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -65,7 +74,7 @@ Header
 .sezione1 {
     height: 320px;
     width: 720px;
-    background-color: #ee82ee;
+    /* background-color: #ee82ee; */
     border: dashed black 2px;
 }
 
