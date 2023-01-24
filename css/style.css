@@ -190,17 +190,13 @@ h2 {
     align-items: center;
 }
 
-.mac2 {
-    background-color: #7289da;
-    /* border-radius: 50px;
-    height: 35px;
-    width: 150px; */
+/* .mac2 {
     background-color: #7289da;
     border-radius: 40px;
     font-size: 14px;
     padding: 8px 17px;
     color: white;
-}
+} */
 
 
 /* 
@@ -221,11 +217,13 @@ Footer
     display: flex;
     height: 430px;
     width: 690px;
+    margin-top: 40px;
 }
 
 .minisection {
     height: 430px;
     width: 270px;
+    margin-top: 40px;
 }
 
 .minisection2 {
@@ -343,6 +341,31 @@ span {
     font-size: 11px;
     line-height: 50px;
 }
+
+.mac2 {
+    background-color: #7289da;
+    border-radius: 40px;
+    font-size: 14px;
+    padding: 8px 16px;
+    color: white;
+}
+
+.containerstelle {
+    background-image: url('/img/stars.svg');
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+/* .stelle {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    overflow: hidden;
+} */
+
 
 
 
