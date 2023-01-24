@@ -35,7 +35,6 @@ ul {
 
 .container1 {
     height: 65px;
-    /* background-color: #add8e6; */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -45,8 +44,6 @@ ul {
 .colonnalogo {
     height: 35px;
     width: 200px;
-    /* background-color: #daa520;
-    border: dashed black 2px; */
     padding: 5px;
     display: flex;
     
@@ -56,9 +53,6 @@ ul {
 .colonnalink {
     height: 35px;
     max width: 570px;
-    /* background-color: #daa520;
-    border: dashed black 2px; */
-    /* text-align: center; */
     padding-top: 5px;
     display: flex;
 
@@ -67,8 +61,6 @@ ul {
 .colonnalogin {
     height: 35px;
     width: 200px;
-    /* background-color: #daa520;
-    border: dashed black 2px; */
     padding: 5px;
     text-align: end;
     display: flex;
@@ -84,7 +76,6 @@ ul {
 
 .container2 {
     height: 400px;
-    /* background-color: #00008b; */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -93,8 +84,6 @@ ul {
 .sezione1 {
     height: 320px;
     width: 720px;
-    /* background-color: #ee82ee;
-    border: dashed black 2px; */
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -169,16 +158,12 @@ h2 {
 .col-big {
     height: 380px;
     width: 580px;
-    /* background-color: #1e90ff;
-    border: dashed black 2px; */
     display: flex;
 }
 
 .col-small {
     height: 380px;
     width: 380px;
-    /* background-color: #ffc0cb;
-    border: dashed black 2px; */
     display: flex;
     flex-direction: column;
     gap: 30px;
@@ -197,8 +182,6 @@ h2 {
 .greensection {
     height: 820px;
     width: 960px;
-    /* background-color: #228b22;
-    border: dashed black 2px; */
     display: flex;
     flex-direction: column;
     gap: 10px;
@@ -233,42 +216,31 @@ Footer
     display: flex;
     height: 430px;
     width: 690px;
-    /* border: dashed black 2px; */
 }
 
 .minisection {
     height: 430px;
     width: 270px;
-    /* background-color: #f08080;
-    border: dashed black 2px; */
 }
 
 .minisection2 {
     height: 427px;
     width: 200px;
-    /* background-color: #20b2aa;
-    border: dashed white 2px; */
 }
 
 .minisection3 {
     height: 427px;
     width: 200px;
-    /* background-color: #20b2aa;
-    border: dashed white 2px; */
 }
 
 .minisection4 {
     height: 427px;
     width: 200px;
-    /* background-color: #20b2aa;
-    border: dashed white 2px; */
 }
 
 .minisection5 {
     height: 427px;
     width: 200px;
-    /* background-color: #20b2aa;
-    border: dashed white 2px; */
 }
 
 .finale {
@@ -283,15 +255,12 @@ Footer
 .lastsection {
     width: 960px;
     height: 65px;
-    /* background-color: #7fffd4; */
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
 .logosmall {
-    /* background-color: #ffb6c1;
-    border: dashed black 2px; */
     width: 60px;
     height: 30px;
     display: flex;
@@ -299,7 +268,6 @@ Footer
 
 .button {
     background-color: #7289da;
-    /* border: dashed black 2px; */
     width: 90px;
     height: 30px;
     border-radius: 50px;
@@ -354,5 +322,8 @@ footer .footer .container3 .minisection5 ul {
 span {
     color: white;
 }
+
+
+
                 
         
