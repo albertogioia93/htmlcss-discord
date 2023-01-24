@@ -239,8 +239,8 @@ Footer
 .minisection {
     height: 430px;
     width: 270px;
-    background-color: #f08080;
-    border: dashed black 2px;
+    /* background-color: #f08080;
+    border: dashed black 2px; */
 }
 
 .minisection2 {
@@ -338,6 +338,21 @@ footer .footer .container3 .minisection5 ul {
     flex-direction: column;
     align-items: flex-start;
     gap: 15px;
+}
+
+#h3secondo {
+    color: #7289da;
+    font-size: 25px;
+}
+
+.icone {
+    display: flex;
+    gap: 16px;
+    color: white;
+}
+
+span {
+    color: white;
 }
                 
         
